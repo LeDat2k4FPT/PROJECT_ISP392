@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 public class MainController extends HttpServlet {
 
     //LÊ ĐẠT LEADER
- private static final String WELCOME = "login.jsp";
+    private static final String WELCOME = "login.jsp";
     private static final String LOGIN = "Login";
     private static final String LOGIN_CONTROLLER = "LoginController";
     private static final String LOGOUT = "Logout";
